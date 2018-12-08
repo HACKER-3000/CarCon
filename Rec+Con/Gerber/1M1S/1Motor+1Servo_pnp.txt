@@ -1,0 +1,80 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=1Motor+1Servo
+*Date=13:04:19
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;81.4753;-73.8232;0;Bottom;CHG
+2;;3 mm [THT];73.3474;-61.6474;0;Bottom;LED_STAT1
+3;47;THT;47.9473;-71.1562;90;Bottom;R5
+4;;;9.8473;-63.5362;0;Bottom;ARDUINO
+5;;;19.8119;-74.7348;0;Bottom;Via12
+6;;TO92 [THT];24.9984;-48.4867;90;Bottom;Q11
+7;;;8.2295;-40.5973;0;Bottom;Via26
+8;;;28.9559;-27.7957;0;Bottom;Via13
+9;47µF;300 mil [THT, electrolytic];69.5373;-40.6762;0;Bottom;C1
+10;;5 mm [THT];4.76744;-38.8272;0;Bottom;LED_FRONT1
+11;;;5.7911;-61.9332;0;Bottom;Via7
+12;;TO92 [THT];24.9984;-23.0867;90;Bottom;Q10
+13;3.3V;;59.3773;-69.6612;-90;Bottom;FTDI
+14;47;THT;42.8673;-35.5962;45;Bottom;R2
+15;;;69.7992;-19.2613;0;Bottom;Via23
+16;;;32.6135;-27.7957;0;Bottom;Via14
+17;;;28.3463;-33.2821;0;Bottom;Via17
+18;3.3;sot223;10.0759;-56.4663;0;Bottom;IC1
+19;;;83.5394;-25.4447;0;Bottom;TXT4
+20;;5 mm [THT];4.76744;-31.2072;0;Bottom;LED_FRONT2
+21;;;51.5112;-35.7205;0;Bottom;Via11
+22;;;32.7073;-24.1662;0;Bottom;PIEZO
+23;;;15.5447;-25.9669;0;Bottom;Via2
+24;;;30.1673;-16.5462;0;Bottom;M1
+25;;;12.4967;-57.0565;0;Bottom;Via27
+26;47;THT;68.2673;-50.8362;0;Bottom;R1
+27;;TO220 [THT];64.7113;-22.8962;90;Bottom;Q2
+28;;;69.7992;-46.0837;0;Bottom;Via10
+29;;;56.388;-18.6517;0;Bottom;Via3
+30;;5 mm [THT];25.0874;-38.8272;0;Bottom;LED_TOP1
+31;;;54.5592;-54.6181;0;Bottom;Via24
+32;;;83.7275;-61.7642;180;Bottom;TXT4
+33;;switch-spst-vertical;36.288;-7.6563;-90;Bottom;SW1
+34;;lipo-1100mAh;55.4882;-17.8962;90;Bottom;BAT1
+35;;;7.0103;-57.0565;0;Bottom;Via6
+36;;;56.388;-36.9397;0;Bottom;Via4
+37;;3 mm [THT];73.3474;-76.8874;0;Bottom;LED_PROG1
+38;;;35.8617;-68.2823;0;Bottom;NRF24
+39;;;1.5239;-12.5557;0;Bottom;Via22
+40;;;53.9496;-52.7893;0;Bottom;Via15
+41;;;29.5655;-41.2069;0;Bottom;Via16
+42;;;52.7304;-33.8917;0;Bottom;Via19
+43;;5 mm [THT];25.0872;-31.2072;0;Bottom;LED_TOP2
+44;;TO92 [THT];35.0568;-48.2073;0;Bottom;Q9
+45;;5 mm [THT];4.76744;-23.5872;0;Bottom;LED_BACK1
+46;;TO220 [THT];52.0113;-22.8962;90;Bottom;Q1
+47;;;47.244;-44.2549;0;Bottom;Via5
+48;47µF;300 mil [THT, electrolytic];51.7573;-40.6762;0;Bottom;C2
+49;1k;THT;50.4873;-50.8362;0;Bottom;R4
+50;;;37.7873;-15.2762;90;Bottom;SERVO
+51;;TO220 [THT];52.0113;-7.65622;90;Bottom;Q3
+52;;;13.8013;-7.65636;0;Bottom;Fuse1
+53;1k;THT;78.4273;-38.1362;90;Bottom;R3
+54;;5 mm [THT];4.76744;-15.9672;0;Bottom;LED_BACK2
+55;;;66.7512;-19.8709;0;Bottom;Via9
+56;;TO92 [THT];24.9984;-66.2667;90;Bottom;Q12
+57;;;72.2376;-25.9669;0;Bottom;Via21
+58;;;79.5528;-30.2341;0;Bottom;Via8
+59;;;50.292;-69.858;0;Bottom;Via18
+60;;TO220 [THT];64.7113;-7.65622;90;Bottom;Q4
+61;;;13.7159;-32.6725;0;Bottom;Via1
+62;;;72.8472;-32.0629;0;Bottom;Via20
+63;;;43.5864;-55.2277;0;Bottom;Via25
+64;;;13.7159;-61.9332;0;Bottom;Via28
+65;;lipo-1100mAh;55.4882;-53.4562;90;Bottom;BAT2

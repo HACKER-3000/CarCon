@@ -1,0 +1,52 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Sketch
+*Date=13:03:26
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;33.8328;-53.4204;0;Bottom;Via13
+2;;;39.3192;-32.694;0;Bottom;Via4
+3;;;41.6285;-36.547;90;Bottom;Arduino
+4;;;31.3944;-21.7212;0;Bottom;Via19
+5;;;41.6286;-8.60696;0;Bottom;Hole2
+6;;;15.8945;-41.0125;90;Bottom;NRF24
+7;;;42.3672;-19.2828;0;Bottom;Via17
+8;;;20.4216;-33.9132;0;Bottom;Via18
+9;;;55.7784;-52.2012;0;Bottom;Via16
+10;;;47.8536;-25.9884;0;Bottom;Via2
+11;;5 mm [THT];3.52848;-52.4383;0;Bottom;LED1
+12;3.3;sot223;34.5585;-49.247;90;Top;AMS1117
+13;;;27.1272;-21.7212;0;Bottom;Via1
+14;;;67.3608;-30.2556;0;Bottom;Via15
+15;;;36.2712;-18.0636;0;Bottom;Via8
+16;;;28.956;-1.60436;0;Bottom;Via11
+17;;;69.5685;-18.132;0;Bottom;JOY2
+18;;;27.1272;-18.0636;0;Bottom;Via6
+19;4.8V;;40.4342;-27.99;0;Bottom;VCC1
+20;;;42.3397;-13.1283;0;Bottom;Squix1
+21;;;58.8264;-24.7692;0;Bottom;Via12
+22;;;43.5864;-47.3244;0;Bottom;Via14
+23;;;11.1485;-23.847;0;Bottom;Hole5
+24;;;21.0312;-9.52916;0;Bottom;Via20
+25;;;29.5656;-6.48116;0;Bottom;Via10
+26;;5 mm [THT];16.2285;-52.4383;0;Bottom;LED2
+27;;;27.1272;-33.9132;0;Bottom;Via5
+28;;;19.812;-50.982;0;Bottom;Via3
+29;;;52.1208;-23.55;0;Bottom;Via9
+30;47µF;300 mil [THT, electrolytic];73.3785;-46.707;0;Bottom;C1
+31;;;41.6285;-50.517;0;Bottom;PIEZO
+32;150;THT;74.6485;-36.547;0;Bottom;R1
+33;;;13.6885;-18.132;0;Bottom;JOY1
+34;;THT;51.7885;-49.247;0;Bottom;S1
+35;;;35.052;-51.5916;0;Bottom;Via7
+36;;;21.3086;-41.627;0;Bottom;Hole3
+37;;;72.1086;-23.847;0;Bottom;Hole4
